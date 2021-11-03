@@ -1,0 +1,2 @@
+# Airline-Database-Management-System
+Airline Database Management System project is built using PHP and  MySQL used to store and retrieve data related to the airline industry and make transactions related  to air travel. The project is aimed at exposing the relevance and importance of Airline Reservation  Systems. The aim of the project is to demonstrate the Create, Read, Update and Delete operations  using PHP and MySQL database.
